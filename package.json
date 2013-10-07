@@ -1,0 +1,27 @@
+{
+  "name": "viera-controll",
+  "version": "0.0.0",
+  "description": "controll viera TV fron LAN",
+  "main": "index.js",
+  "dependencies": {
+    "express": "~3.4.0",
+    "request": "~2.27.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:manaten/viera-controll.git"
+  },
+  "keywords": [
+    "viera",
+    "tv"
+  ],
+  "author": "manaten",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/manaten/viera-controll/issues"
+  }
+}
